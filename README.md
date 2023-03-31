@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LordFaders
 - 👀 I’m interested in learn everything I can
-- 🌱 I’m currently learning Full Stack Java
-- 💞️ I’m looking to collaborate on smartwatch apps
+- 🌱 I’m currently working as Fullstack dev (mainly Front) with Angular and C#
 - 📫 How to reach me jaime.tapia.miquel@gmail.com
 
 <!---
